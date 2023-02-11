@@ -1,4 +1,4 @@
-# Pic Game
+# Axios-Course
 
 🎰 **HEY,What are you waiting for,start the game ??**
 
