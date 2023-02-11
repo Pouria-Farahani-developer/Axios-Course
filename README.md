@@ -2,7 +2,7 @@
 
 ☄ **Transfer your information in the fastest way possible with axios**
 
-![preview1](https://user-images.githubusercontent.com/109727844/189748966-08b6126a-03ce-4d30-aed9-b3fd25f76fa9.jpg)
+![demo](https://user-images.githubusercontent.com/109727844/218265821-f6da953a-071a-485e-8d8f-4056f529882c.jpg)
 
 ![preview2](https://user-images.githubusercontent.com/109727844/189749596-4b1fe2b8-b083-4ded-a2cc-0908c2f85212.jpg)
 
