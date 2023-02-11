@@ -10,7 +10,7 @@
 
 
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/PicGame/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Axios-Course/)
 
 - 👨‍💻 Developed by pouria farahani
 
